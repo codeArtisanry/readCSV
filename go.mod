@@ -1,3 +1,3 @@
-module github.com/readCSV
+module github.com/codesnail21/readCSV
 
-go 1.17
+go 1.18
