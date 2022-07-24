@@ -1,4 +1,4 @@
-package readCsv
+package readCSV
 
 import (
 	"encoding/csv"
